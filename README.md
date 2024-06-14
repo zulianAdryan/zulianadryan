@@ -1,9 +1,28 @@
 ## Hi there 👋
 
 <a href="https://github.com/zulianadryan/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&theme=default#gh-dark-mode-only" />
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&theme=default#gh-light-mode-only" />
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&include_all_commits=true&layout=compact&langs_count=8&card_width=100" />
+</picture>
 </a>
 <a href="https://github.com/zulianadryan/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&layout=compact&langs_count=8&card_width=320" />
-</a>
+   <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&show_icons=true&theme=dark&card_width=520"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&show_icons=true&card_width=520"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&layout=compact&langs_count=8" />
+</picture>
+   </a>
