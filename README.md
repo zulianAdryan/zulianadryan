@@ -3,14 +3,14 @@
 <a href="https://github.com/zulianadryan/github-readme-stats">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=stars"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&include_all_commits=true&hide_rank=true&hide=stars"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&include_all_commits=true&layout=compact&langs_count=8&card_width=100" />
+  <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&layout=compact&langs_count=8&card_width=100" />
 </picture>
 </a>
 <a href="https://github.com/zulianadryan/convoychat">
