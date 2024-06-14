@@ -1,5 +1,30 @@
-## Hi there 👋
+# Hi there 👋!
+<a align="left" href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Zulian+Adryan+Syah+Pratama;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%8F%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%85%E3%83%AA%E3%83%A4%E3%83%B3%E3%82%B7%E3%83%A4%E3%83%95%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0;mi+chiamo+Zulian+Adryan+Syah+Pratama;nama+saya+Zulian+Adryan+Syah+Pratama" alt="Typing SVG" />
+</a>
 
+<!--Start Intro-->               
+<p align="left">I am a Frontend Developer with a love–hate relationship for React.js, Node.js, React Native and also having a knowledge in Backend Environment. </p>
+- 📖⛩️ I'm currently studying towards N5 proficiency and aiming for N2 to pursue a career in development in Japan.<br>
+- 💻 Passionate about clean code and type-safe programming, Now I'm very interested in TypeScript with refining my skills in types and clean code writing.<br>
+- 🚀 Excited to start on a new journey, I'm eagerly exploring new frameworks to broaden my horizons and enhance my development toolkit.<br>
+<!-- 💻 Visit my [Portfolio](https://zulianadryan.github.io) for more details about me. -->
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<br>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=zulianadryan&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="profile count" style="padding-right:20px;" />
+</p>
+
+---
+<!--Languages and Tools Section-->       
+<h2 align="left">✨ My stacks and stats</h2>
+<br>
+
+<p align="left">
+<img width="500px"  src="https://skillicons.dev/icons?i=js,typescript,html,css,react,redux,tailwind,nodejs,express,mongo,vscode,git,vite&perline=20"  />
+</p>
 <a href="https://github.com/zulianadryan/github-readme-stats">
   <picture>
   <source
@@ -34,3 +59,22 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!--Contact Section--> 
+
+<h2 align="left">✉️ My Contacts</h2>
+<div align="left">
+ <a href="https://www.linkedin.com/in/zulianadryan/" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-right: 5px;" />
+</a>
+  
+<a href="mailto:zulian.adryan@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="zulian.adryan@gmail.com mail" style="margin-right: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/zulianadryann" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="zulianadryann Instagram" style="margin-right: 5px;" />
+</a>
+
+</div>
+<br/>
