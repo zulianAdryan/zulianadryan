@@ -55,9 +55,9 @@
 
 <br><div>All my work is stored in __Organization repositories__ 💔, so my stats can't be fully displayed. However, traces of my contributions can be seen below as this snake 🐍 devours them</div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zulianAdryan/zulianadryan/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zulianAdryan/zulianadryan/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zulianAdryan/zulianadryan/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/zulianAdryan/zulianadryan/output/github-snake.svg" />
 </picture>
 
 <!--Contact Section--> 
