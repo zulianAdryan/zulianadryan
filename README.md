@@ -1,3 +1,13 @@
+<!--
+  THIS README GITHUB PROFILE WAS MADE BY ME, ZULIAN ADRYAN 
+  IF YOU WANT TO USE THIS AS A REFERENCE, PLEASE CONSIDER SUPPORTING/CONTRIBUTING TO THE FOLLOWING DEVELOPERS WHO MADE THIS README LOOK GOOD:
+  - https://github.com/Platane/snk
+  - https://github.com/antonkomarev/github-profile-views-counter
+  - https://skillicons.dev
+  - https://github.com/anuraghazra/github-readme-stats
+  - https://github.com/badges/shields
+-->
+
 # Hi there 👋!
 <a align="left" href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&duration=1000&pause=800&random=false&width=1000&height=100&lines=my+name+is+Zulian+Adryan+Syah+Pratama;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%82%8F%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%85%E3%83%AA%E3%83%A4%E3%83%B3%E3%82%B7%E3%83%A4%E3%83%95%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0;mi+chiamo+Zulian+Adryan+Syah+Pratama;nama+saya+Zulian+Adryan+Syah+Pratama" alt="Typing SVG" />
