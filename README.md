@@ -14,7 +14,7 @@
 </a>
 
 <!--Start Intro-->               
-<p align="left">I am a Frontend Developer with a love–hate relationship for React.js, Node.js, React Native and also having a knowledge in Backend Environment. </p>
+<p align="left">I am a Frontend Developer with a love–hate relationship for React and also having a knowledge in Backend Environment. </p>
 - 📖⛩️ I'm currently studying towards N5 proficiency and aiming for N2 to pursue a career in development in Japan.<br>
 - 💻 Passionate about clean code and type-safe programming, Now I'm very interested in TypeScript with refining my skills in types and clean code writing.<br>
 - 🚀 Excited to start on a new journey, I'm eagerly exploring new frameworks to broaden my horizons and enhance my development toolkit.<br>
