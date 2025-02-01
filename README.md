@@ -33,7 +33,7 @@
 <br>
 
 <p align="left">
-<img width="500px"  src="https://skillicons.dev/icons?i=js,typescript,html,css,react,redux,tailwind,nodejs,express,mongo,vscode,git,vite&perline=20"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,redux,tailwind,nodejs,express,mongo,supabase,mysql,vscode,git,vite&perline=20"  />
 </p>
 <a href="https://github.com/zulianadryan/github-readme-stats">
   <picture>
