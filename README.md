@@ -35,7 +35,10 @@
 <p align="left">
 <img width="500px"  src="https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,redux,tailwind,nodejs,express,mongo,supabase,mysql,vscode,git,vite&perline=20"  />
 </p>
-<a href="https://github.com/zulianadryan/github-readme-stats">
+
+<table>
+  <tr>
+    <a href="https://github.com/zulianadryan/github-readme-stats">
   <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true&hide=stars&show=prs_merged,prs_merged_percentage"
@@ -48,8 +51,7 @@
   <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&layout=compact&langs_count=8&card_width=270" />
 </picture>
 </a>
-
-<table>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://github.com/zulianadryan/convoychat">
