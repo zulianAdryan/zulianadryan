@@ -49,23 +49,30 @@
 </picture>
 </a>
 
-<div style="display: flex; justify-content: between; align-items: center">
-  <a href="https://github.com/zulianadryan/convoychat">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&show_icons=true&theme=dark&card_width=520"
-        media="(prefers-color-scheme: dark)"
-      />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&show_icons=true&card_width=520"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      />
-      <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&layout=compact&langs_count=8" />
-    </picture>
-  </a>
-  
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zulianadryan&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/zulianadryan/convoychat">
+        <picture>
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&show_icons=true&theme=dark&card_width=520"
+            media="(prefers-color-scheme: dark)"
+          />
+          <source
+            srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&show_icons=true&card_width=520"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+          />
+          <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&layout=compact&langs_count=8" />
+        </picture>
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=zulianadryan&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 <br><div>All my work is stored in __Organization repositories__ 💔, so my stats can't be fully displayed. However, traces of my contributions can be seen below as this snake 🐍 devours them</div>
