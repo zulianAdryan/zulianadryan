@@ -38,6 +38,7 @@
 
 <table>
   <tr>
+    <td>
     <a href="https://github.com/zulianadryan/github-readme-stats">
   <picture>
   <source
@@ -51,6 +52,7 @@
   <img height=230 align="center" src="https://github-readme-stats.vercel.app/api?username=zulianadryan&show_icons=true&layout=compact&langs_count=8&card_width=270" />
 </picture>
 </a>
+      </td>
   </tr>
   <tr>
     <td align="center">
