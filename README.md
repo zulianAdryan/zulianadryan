@@ -49,7 +49,7 @@
 </picture>
 </a>
 
-<div>
+<div style={{display:flex}}>
   <a href="https://github.com/zulianadryan/convoychat">
     <picture>
       <source
