@@ -51,7 +51,7 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/zulianadryan/convoychat">
         <picture>
           <source
@@ -62,11 +62,11 @@
             srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&show_icons=true&card_width=520"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
           />
-          <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&layout=compact&langs_count=8" />
+          <img height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&layout=compact&langs_count=8" />
         </picture>
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=zulianadryan&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" />
       </a>
