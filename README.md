@@ -49,7 +49,7 @@
 </picture>
 </a>
 
-<div style={{display:flex}}>
+<div style="display: flex; justify-content: between; align-items: center">
   <a href="https://github.com/zulianadryan/convoychat">
     <picture>
       <source
