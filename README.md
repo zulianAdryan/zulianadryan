@@ -38,7 +38,7 @@
 
 <table>
   <tr>
-    <td>
+    <td colspan="2">
     <a href="https://github.com/zulianadryan/github-readme-stats">
   <picture>
   <source
