@@ -61,7 +61,7 @@
   <img height=230 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zulianadryan&layout=compact&langs_count=8" />
 </picture>
    </a>
-<!--    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zulianadryan&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a> -->
+   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zulianadryan&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 <!--
 <br><div>All my work is stored in __Organization repositories__ 💔, so my stats can't be fully displayed. However, traces of my contributions can be seen below as this snake 🐍 devours them</div>
