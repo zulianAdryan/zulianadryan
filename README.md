@@ -71,9 +71,9 @@
       </a>
     </td>
     <td align="center">
-<!--       <a href="https://git.io/streak-stats"> -->
-        <img src="https://streak-stats.demolab.com?user=zulianadryan&theme=github-dark-blue&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-<!--       </a> -->
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=zulianadryan" alt="GitHub Streak" />
+      </a>
 <!--       [![GitHub Streak](https://streak-stats.demolab.com/?user=zulianadryan)](https://git.io/streak-stats) -->
     </td>
   </tr>
