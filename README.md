@@ -24,8 +24,14 @@
 <!--Profile Count Badge-->
 <br>
 <p align="left">
+  <a href="https://www.zulianadryan.com" alt="personal-portofolio" style="padding-left:20px;" target="_blank">🏠 Personal Portofolio</a>
+</p>
+
+
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=zulianadryan&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="profile count" style="padding-right:20px;" />
 </p>
+
 
 ---
 <!--Languages and Tools Section-->       
@@ -38,7 +44,7 @@
 
 <table>
   <tr>
-    <td colspan="2">
+    <td>
     <a href="https://github.com/zulianadryan/github-readme-stats">
   <picture>
   <source
@@ -53,9 +59,9 @@
 </picture>
 </a>
       </td>
-  </tr>
-  <tr>
-    <td align="center">
+<!--   </tr> -->
+<!--   <tr> -->
+    <td>
       <a href="https://github.com/zulianadryan/convoychat">
         <picture>
           <source
@@ -70,12 +76,11 @@
         </picture>
       </a>
     </td>
-    <td align="center">
+<!--     <td align="center">
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com?user=zulianadryan" alt="GitHub Streak" />
       </a>
-<!--       [![GitHub Streak](https://streak-stats.demolab.com/?user=zulianadryan)](https://git.io/streak-stats) -->
-    </td>
+    </td> -->
   </tr>
 </table>
 
