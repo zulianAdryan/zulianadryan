@@ -15,7 +15,7 @@
 
 <!--Start Intro-->               
 <p align="left">I am a Frontend Developer with a love–hate relationship for React. </p>
-- 📖⛩️ I'm currently studying towards N5 proficiency and aiming for N2 to pursue a career in development in Japan.<br>
+- 📖⛩️ I'm currently studying towards N3 Japanese language to pursue a career in Japan.<br>
 - 💻 Passionate about clean code and type-safe programming, Now I'm very interested in TypeScript with refining my skills in types and clean code writing.<br>
 - 🚀 Excited to start on a new journey, I'm eagerly exploring new frameworks to broaden my horizons and enhance my development toolkit.<br>
 <!-- 💻 Visit my [Portfolio](https://zulianadryan.github.io) for more details about me. -->
