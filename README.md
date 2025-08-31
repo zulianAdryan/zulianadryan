@@ -11,12 +11,12 @@
 # Hi there 👋!
 <img src="https://komarev.com/ghpvc/?username=zulianadryan&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="profile count" style="padding-right:20px;" />
 
-<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&pause=800&width=1000&height=100&lines=My+name+is+Zulian+Adryan+Syah+Pratama;%E7%A7%81%E3%81%AE%E5%90%8D%E5%89%8D%E3%81%AF%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%82%A2%E3%83%83%E3%83%89%E3%83%AA%E3%83%BC%E3%82%A2%E3%83%B3%E3%82%B7%E3%83%A3%E3%83%95%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0;Nama+saya+Zulian+Adryan+Syah+Pratama" alt="Typing SVG" /></a>
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?size=40&font=Fira+Code&pause=800&width=1000&height=100&lines=My+name+is+Zulian+Adryan+Syah+Pratama;%E3%82%BA%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%89%E3%83%AA%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B7%E3%82%A2%E3%83%BC%E3%83%BB%E3%83%97%E3%83%A9%E3%82%BF%E3%83%A0%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99;Nama+saya+Zulian+Adryan+Syah+Pratama" alt="Typing SVG" /></a>
 
 <!--Start Intro-->               
 <p align="left">I am a Frontend Developer with a love–hate relationship for React. </p>
 - 📖⛩️ I'm currently studying towards N3 Japanese language to pursue a career in Japan.<br>
-- 💻 Passionate about clean code and type-safe programming, Now I'm very interested in TypeScript with refining my skills in types and clean code writing.<br>
+- 💻 Passionate about clean code and type-safe programming, really interested in TypeScript with refining my skills in types and clean code writing.<br>
 - 🚀 Excited to start on a new journey, I'm eagerly exploring new frameworks to broaden my horizons and enhance my development toolkit.<br>
 <!-- 💻 Visit my [Portfolio](https://zulianadryan.github.io) for more details about me. -->
 <!--End Intro-->
